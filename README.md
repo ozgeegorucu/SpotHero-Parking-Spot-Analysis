@@ -13,8 +13,5 @@ BeautifulSoup
 Selenium
 pandas
 numpy
-You can install these libraries using pip, the Python package manager:
 
-Copy code
-pip install beautifulsoup4 selenium pandas numpy
 You will also need to download a web driver for Selenium to use. You can download the Chrome web driver here: https://sites.google.com/a/chromium.org/chromedriver/downloads
