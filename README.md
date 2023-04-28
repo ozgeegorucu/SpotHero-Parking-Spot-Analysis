@@ -27,18 +27,3 @@ According to reviews, 72% of parking spots have an Excellent score, 22% have a G
 When prices and reviews are compared, low prices have more reviews, and generally, low prices have more excellent scores.
 
 According to open hours, 95% of parking spots are open 24/7.
-
-# Usage
-To use the project, you can clone the repository and run the Python script. You will need to have the necessary Python libraries installed to run the script.
-
-# Installation
-To run this script, you will need to have Python 3 installed on your machine. You can download it from the official Python website: https://www.python.org/downloads/
-
-You will also need to install the following libraries:
-
-BeautifulSoup
-Selenium
-pandas
-numpy
-
-You will also need to download a web driver for Selenium to use. You can download the Chrome web driver here: https://sites.google.com/a/chromium.org/chromedriver/downloads
